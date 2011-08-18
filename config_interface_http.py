@@ -1,7 +1,7 @@
 config = dict \
 (
 protocol = "http",
-listener_address = ("0.0.0.0", 80),
+listener_address = ("0.0.0.0", 8080),
 max_connections = 100,
 ssl_key_cert_file = None,
 ssl_ca_cert_file = None,
